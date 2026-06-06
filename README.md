@@ -35,8 +35,3 @@ This repository houses the source code for my professional portfolio website, de
 * **Accreditations:** Certified Scrum Master (CSM), Lean Six Sigma Green Belt, COPC Certified (Customer Operations Performance Centre standards)
 
 ---
-
-## 📁 Repository Structure
-
-* `index.html` - Main landing architecture containing responsive layouts, semantic tags, and the core career history matrix
-* `README.md` - Technical meta-documentation for indexing and recruiter review
