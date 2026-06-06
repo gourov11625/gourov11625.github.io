@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gourov Prasad | Knowledge Management & Support Operations Leader</title>
+    <style>
+        /* Modern Minimalist Design System */
+        :root {
+            --bg-primary: #ffffff;
+            --bg-secondary: #f8fafc;
+            --text-main: #0f172a;
+            --text-muted: #475569;
+            --accent: #2563eb; /* Professional Tech Blue */
+            --border: #e2e8f0;
+            --font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: var(--font-stack);
+            background-color: var(--bg-primary);
+            color: var(--text-main);
+            line-height: 1.6;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        /* Header & London Compliance Section */
+        header {
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 2.5rem;
+            margin-bottom: 3rem;
+        }
+
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 800;
+            letter-spacing: -0.05em;
+            color: var(--text-main);
+        }
+
+        .title-sub {
+            font-size: 1.25rem;
+            color: var(--accent);
+            font-weight: 500;
+            margin-top: 0.25rem;
+        }
+
+        .visa-badge {
+            background-color: #f0fdf4;
+            border: 1px solid #bbf7d0;
+            color: #166534;
+            padding: 0.5rem 1rem;
+            border-radius: 6px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            display: inline-block;
+        }
+
+        .contact-links {
+            margin-top: 1.5rem;
+            display: flex;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+            font-size: 0.9rem;
+        }
+
+        .contact-links a {
+            color: var(--text-muted);
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+
+        .contact-links a:hover {
+            color: var(--accent);
+        }
+
+        /* Section Layouts */
+        section {
+            margin-bottom: 4rem;
+        }
+
+        h2 {
+            font-size: 1.5rem;
+            font-weight: 700;
+            letter-spacing: -0.03em;
+            margin-bottom: 1.5rem;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            letter-spacing: 0.1em;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 0.5rem;
+        }
+
+        /* Impact Metric Grid */
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .metric-card {
+            background-color: var(--bg-secondary);
+            border: 1px solid var(--border);
+            padding: 1.5rem;
+            border-radius: 8px;
+            text-align: left;
+        }
+
+        .metric-number {
+            font-size: 2.25rem;
+            font-weight: 800;
+            color: var(--accent);
+            line-height: 1;
+            margin-bottom: 0.5rem;
+        }
+
+        .metric-label {
+            font-size: 0.9rem;
+            color: var(--text-main);
+            font-weight: 600;
+            margin-bottom: 0.25rem;
+        }
+
+        .metric-desc {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+        }
+
+        /* Experience Timeline */
+        .job-card {
+            margin-bottom: 2.5rem;
+        }
+
+        .job-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            flex-wrap: wrap;
+            margin-bottom: 0.75rem;
+        }
+
+        .job-title {
+            font-size: 1.2rem;
+            font-weight: 700;
+        }
+
+        .job-company {
+            color: var(--text-muted);
+            font-weight: 400;
+        }
+
+        .job-date {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            font-variant-numeric: tabular-nums;
+        }
+
+        .bullet-list {
+            list-style-type: none;
+        }
+
+        .bullet-list li {
+            position: relative;
+            padding-left: 1.25rem;
+            margin-bottom: 0.5rem;
+            font-size: 0.95rem;
+            color: var(--text-muted);
+        }
+
+        .bullet-list li::before {
+            content: "•";
+            color: var(--accent);
+            font-weight: bold;
+            position: absolute;
+            left: 0;
+        }
+
+        /* Skills Matrix Layout */
+        .skills-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .skills-group {
+            background-color: var(--bg-secondary);
+            padding: 1.25rem;
+            border-radius: 6px;
+            border: 1px solid var(--border);
+        }
+
+        .skills-group h3 {
+            font-size: 0.95rem;
+            font-weight: 700;
+            margin-bottom: 0.75rem;
+            color: var(--text-main);
+        }
+
+        .skills-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .tag {
+            background-color: var(--bg-primary);
+            border: 1px solid var(--border);
+            padding: 0.25rem 0.6rem;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            font-weight: 500;
+        }
+
+        footer {
+            margin-top: 5rem;
+            border-top: 1px solid var(--border);
+            padding-top: 2rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+        }
+
+        /* Responsive Design tweaks */
+        @media (max-width: 768px) {
+            h1 { font-size: 2rem; }
+            .header-top { flex-direction: column; align-items: flex-start; }
+            .visa-badge { margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <!-- Header Section (Compliant for London Filtering) -->
+    <header>
+        <div class="header-top">
+            <div>
+                <h1>Gourov Prasad</h1>
+                <div class="title-sub">Senior Knowledge Manager & Operations Leader</div>
+            </div>
+            <!-- Essential visibility badge for UK market -->
+            <div class="visa-badge">UK Dependent Visa — Immediate Right to Work (No Sponsorship Required)</div>
+        </div>
+        
+        <div class="contact-links">
+            <a href="mailto:gp11625@gmail.com">✉ gp11625@gmail.com</a>
+            <a href="tel:+918686357422">📞 +91 8686357422</a>
+            <a href="https://linkedin.com" target="_blank">🔗 LinkedIn Profile</a>
+            <span>📍 Open to London / Global Remote</span>
+        </div>
+    </header>
+
+    <!-- Professional Summary Section -->
+    <section id="summary">
+        <h2>Professional Summary</h2>
+        <p style="color: var(--text-muted); font-size: 1.05rem;">
+            Knowledge Management leader with 9 years of cross-functional experience at Uber scaling enterprise knowledge systems, optimizing multi-regional customer journeys, and engineering technical support automations. Expert in information architecture, modular content models (SSOT, COPE, Atomic Design), and bridging the gap between large language model retrieval (RAG) and human advocate execution. Proven track record leading operational units of 15+ FTEs across global markets with a core focus on data-driven efficiency and rigorous quality governance.
+        </p>
+    </section>
+
+    <!-- Key Impact Metrics Grid -->
+    <section id="impact">
+        <h2>Key Impact By The Numbers</h2>
+        <div class="metrics-grid">
+            <div class="metric-card">
+                <div class="metric-number">70K+</div>
+                <div class="metric-label">Monthly Ticket Deflection</div>
+                <div class="metric-desc">Achieved via automated safety ticket routing architectures saving $220,000 annually.</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-number">85.7%</div>
+                <div class="metric-label">Licensing Cost Reduction</div>
+                <div class="metric-desc">Delivered during an 18-month zero-downtime global ticketing stack migration from Salesforce to KMS.</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-number">&lt; 8 Hours</div>
+                <div class="metric-label">Resolution Speed</div>
+                <div class="metric-desc">Slashed high-stakes claims resolution down from 7 days through Project Nexus workflow reengineering.</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-number">10%+</div>
+                <div class="metric-label">Redundancy Eliminated</div>
+                <div class="metric-desc">Generated by building custom Gemini-based auditing tools (C3PO) to scrub ~1,200 content chunks.</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Core Experience Timeline -->
+    <section id="experience">
+        <h2>Professional Experience</h2>
+
+        <div class="job-card">
+            <div class="job-header">
+                <div class="job-title">Knowledge Management Programme Manager <span class="job-company">— Uber (Global Strategic Operations)</span></div>
+                <div class="job-date">Nov 2023 – Present</div>
+            </div>
+            <ul class="bullet-list">
+                <li><strong>Next-Gen Knowledge OS:</strong> Founding member of the 4-person AKX Tiger Team transitioning Uber to an atomic, reusable content framework (MOAP) designed to be human-readable and optimal for AI agent RAG retrieval models.</li>
+                <li><strong>AI-Assisted Governance:</strong> Engineered a Gemini-powered content auditor (C3PO) parsing ~1,200 data chunks using SQL and JSON, eliminating duplicate workflows and establishing high-fidelity downstream data feeds.</li>
+                <li><strong>AI Knowledge Hub:</strong> Built an AI-driven procedure creation engine using Gemini, empowering non-technical writers to deploy template-compliant global updates instantly without HTML/CSS knowledge.</li>
+                <li><strong>Project Nexus:</strong> Conducted on-site operational reviews in Chicago to validate 51 net-new claims frameworks, triggering a consumer-facing UI layout redesign that eliminated search friction during critical escalations.</li>
+            </ul>
+        </div>
+
+        <div class="job-card">
+            <div class="job-header">
+                <div class="job-title">Programme Specialist IV — Safety, Risk & Payments <span class="job-company">— Uber (APAC Central Operations)</span></div>
+                <div class="job-date">Jul 2021 – Oct 2023</div>
+            </div>
+            <ul class="bullet-list">
+                <li><strong>Global Taxonomy Overhaul:</strong> Spearheaded the Global Payment Taxonomy initiative, mapping 400+ new Contact Types and migrating ~4,000 resources to establish a single, unified source of truth across all global regions.</li>
+                <li><strong>Support Automation:</strong> Defined technical scope and metrics governance for regional safety routing systems, successfully automating 70,000 manual customer tickets per month while fully safeguarding quality standards.</li>
+                <li><strong>Process Reengineering:</strong> Rewrote multi-market operational playbooks to streamline escalation layers, driving down high-anxiety resolution wait-times from a 7-day average to under 8 hours.</li>
+            </ul>
+        </div>
+
+        <div class="job-card">
+            <div class="job-header">
+                <div class="job-title">Team Leader — Content & Customer Insights <span class="job-company">— Uber (US&C Community Operations)</span></div>
+                <div class="job-date">Dec 2019 – Jun 2021</div>
+            </div>
+            <ul class="bullet-list">
+                <li><strong>Team Leadership:</strong> Built, managed, and coached a high-performing unit of 15 FTE Content & Insights Specialists; established core performance metrics encompassing AHT, FCR, and strict SLA compliance frameworks.</li>
+                <li><strong>Insight Pipelines:</strong> Translated production user friction data into strategic structural modifications for the US driver base, drastically reducing repeat contacts on critical product pain points.</li>
+            </ul>
+        </div>
+
+        <div class="job-card">
+            <div class="job-header">
+                <div class="job-title">Subject Matter Expert & Content Specialist <span class="job-company">— Uber (Centre of Excellence)</span></div>
+                <div class="job-date">Oct 2016 – Nov 2019</div>
+            </div>
+            <ul class="bullet-list">
+                <li><strong>Fintech GTM Launch:</strong> Directed localized content preparedness and operational workflow routing frameworks for the flagship Uber Cash launch across millions of active market users.</li>
+                <li><strong>Workflow Scripting:</strong> Created localized HTML and JavaScript web-scraping automation utilities directly inside existing internal CRMs, decreasing handle times for multi-layered customer inquiries.</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Technical & Operational Skills Matrix -->
+    <section id="skills">
+        <h2>Technical Toolkit & Frameworks</h2>
+        <div class="skills-container">
+            <div class="skills-group">
+                <h3>Knowledge & Content Tech</h3>
+                <div class="skills-tags">
+                    <span class="tag">ContentStack</span>
+                    <span class="tag">KMS Lighthouse</span>
+                    <span class="tag">Salesforce Service Cloud</span>
+                    <span class="tag">Zendesk</span>
+                    <span class="tag">Headless SSOT</span>
+                    <span class="tag">COPE Architecture</span>
+                </div>
+            </div>
+            <div class="skills-group">
+                <h3>AI Engineering & Data</h3>
+                <div class="skills-tags">
+                    <span class="tag">SQL (MySQL)</span>
+                    <span class="tag">JSON</span>
+                    <span class="tag">JavaScript (Scripting)</span>
+                    <span class="tag">RAG Architecture</span>
+                    <span class="tag">Gemini Audit Tooling</span>
+                    <span class="tag">Prompt Engineering</span>
+                </div>
+            </div>
+            <div class="skills-group">
+                <h3>Operations & Methodologies</h3>
+                <div class="skills-tags">
+                    <span class="tag">Lean Six Sigma Green Belt</span>
+                    <span class="tag">Certified Scrum Master (CSM)</span>
+                    <span class="tag">COPC Architecture Standards</span>
+                    <span class="tag">Root Cause Analysis (RCA)</span>
+                    <span class="tag">Information Architecture Mapping</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Education & Accreditations -->
+    <section id="education">
+        <h2>Education & Professional Accreditations</h2>
+        <ul class="bullet-list">
+            <li><strong>Bachelor of Engineering (B.E.) in Mechanical Engineering</strong> — Chaitanya Bharathi Institute of Technology (CBIT)</li>
+            <li><strong>Certified Scrum Master (CSM)</strong> — Agile Alliance</li>
+            <li><strong>Certified Lean Six Sigma Green Belt</strong> — Process Optimisation & Statistical Data Analysis</li>
+            <li><strong>COPC Certified</strong> — Customer Operations Performance Centre Standards</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Gourov Prasad. Built with semantic HTML & CSS.</p>
+    </footer>
+
+</div>
+
+</body>
+</html>
