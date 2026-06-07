@@ -1,7 +1,7 @@
 # Gourov Prasad
 ### Senior Knowledge Manager | Global Content Architecture & AI Enablement
 **Location:** Hyderabad, India (Open to London / Global Remote)  
-**Visa Status:** UK Dependent Visa (Immediate right to work, no sponsorship required)  
+**Visa Status:** UK Dependent Visa (No sponsorship required)  
 **Contact:** gp11625@gmail.com | [LinkedIn Profile](https://linkedin.com/in/gourov-prasad-b36a19a7)
 
 ---
