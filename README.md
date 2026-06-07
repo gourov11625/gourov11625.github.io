@@ -1,141 +1,78 @@
-Gourov Prasad
+**GOUROV PRASAD**
 
-Knowledge Systems Architect & Support Operations Leader
+**Knowledge Program Manager  |  Content Systems & Strategy**
 
-London, UK / Global Remote
+Hyderabad, India (Open to London / Global Remote)   •   \+91-8686357422   •   gp11625@gmail.com   •   [LinkedIn](http://linkedin.com/in/gourovprasad)
 
-✉️ gp11625@gmail.com | 💼 LinkedIn Profile
+*UK Dependent Visa — Immediate right to work, no sponsorship required*
 
-UK Dependent Visa — Immediate Right to Work (No Sponsorship Required)
+**PROFESSIONAL SUMMARY**
 
-Executive Summary
+Highly organized Knowledge Management leader with 9 years of experience at Uber, architecting, governing, and optimizing global content ecosystems across 50+ markets. Expert in systems administration — including advanced Salesforce CMS management, technical migrations, and HTML/CSS development. Proven track record managing complex cross-functional programs using Agile methodologies (Jira/Confluence) to streamline publishing lifecycles. Passionate about leveraging data-driven dashboards and generative AI to build high-efficiency, advocate-first knowledge environments.
 
-A highly analytical and structured Operations and Knowledge Management leader with over 9 years of tenure depth at a Global Fortune 500 Technology & Ride-Hailing Enterprise. Expert at transitioning complex, scaling organizations from unmonitored working directories into high-performing, "headless" Single Source of Truth (SSOT) architectures designed for both human support agents and automated RAG pipelines.
+**CORE COMPETENCIES & TECHNICAL TOOLKIT**
 
-For Knowledge Strategy (ClearScore/Vistaprint): Specialized in designing structured metadata indexes, building atomic component frameworks, and establishing federated content stewardship models to ensure organizational knowledge acts as a quiet competitive advantage rather than an operational tax.
+| Area | Concepts & Methodologies | Key Tools & Systems |
+| :---- | :---- | :---- |
+| **Systems & Content Ops** | Content Lifecycle Mgmt, Template Governance, Headless CMS, Information Architecture, Taxonomy, Metadata | Salesforce CMS, Service Cloud, ContentStack, KMS Lighthouse, Zendesk |
+| **Project & Program Mgmt** | Agile/Scrum (CSM), Scope Planning, Cross-functional Collaboration, SLA Design, RAID Logs | Jira, Jira Product Discovery, Confluence, Asana, Airtable |
+| **Analytics & Reporting** | Performance Dashboards (Velocity, Volume, SLA Turnaround), Root Cause Analysis, Customer Trends | SQL (MySQL), MS Excel / Google Sheets, Automated Reporting Frameworks |
+| **AI, Automation & Web** | Prompt Engineering, LLM Auditing, Content Automation, HTML5/CSS3 Authoring, Schema Design | Gemini (Custom Gems & Audits), NotebookLM, JSON, JavaScript (scripting) |
 
-For CX Operations & Team Leadership: A Scrum-certified (CSM), Lean Six Sigma Green Belt, and COPC-certified leader with a proven track record of managing high-performance support teams (up to 15 FTEs), optimizing SLA coverage, and building robust quality assurance systems.
+**PROFESSIONAL EXPERIENCE**
 
-Quantified Operational Value
+**Knowledge Management Program Manager, Global Content**  |  Uber | Global Strategic Operations *Nov 2023 – Present*
 
-Operational Indicator
+*Founding member of the AKX Tiger Team, leading Uber’s transition to a next-generation Knowledge Operating System (Knowledge OS). Primary DRI for content strategy and technical governance across Product, Engineering, Legal, and 50+ regional markets.*
 
-Measured Business Impact
+* **Program & Project Management (Agile):** Own end-to-end program execution for high-priority global knowledge initiatives. Coordinate sprint planning, scoping, timelines, and deliverables using Jira and Confluence to align regional stakeholders.
 
-Core Strategic Program Driven
+* **Cross-Functional Governance:** Served as the sole global POC for Accounts & Payments KB harmonization. Partnered with product and engineering teams to resolve content bottlenecks, optimize IA, and coordinate regional content releases.
 
-SLA Resolution Velocity
+* **HTML Automation & Tooling:** Engineered a custom, Gemini-powered HTML authoring wrapper, allowing non-technical content specialists to generate clean, brand-compliant, and accessible HTML drafts automatically.
 
-Reduced turnaround from 7 Days to <8 Hours
+* **Knowledge OS & Modular Strategy:** Architected the Modular Action Oriented Playbook (MOAP) content framework, transforming monolithic support articles into structured, atomic components to increase reuse across support channels.
 
-Re-engineered central claims operations & handoff workflows
+* **AI-Driven Content Audits:** Built an LLM-assisted (Gemini) auditing programme utilizing SQL and JSON to review \~1,200 content blocks; identified and resolved a 10%+ redundancy rate, drastically improving downstream content health and retrieval accuracy.
 
-Strategic Ticket Deflection
+**Program Specialist IV — Safety, Risk & Payments**  |  Uber | APAC Central Operations*Jul 2021 – Oct 2023*
 
-Deflected 70,000+ tickets per month
+*Led regional content programmes, operational workflows, and large-scale taxonomy overhauls to support APAC support operations.*
 
-Structured optimized system-to-content routing taxonomies
+* **Taxonomy & Metadata Architecture:** Led the ground-up structuring of the Global Payment Taxonomy, defining 400+ new Contact Types and migrating \~4,000 KB assets to establish the foundational single source of truth (SSOT).
 
-Corpus Redundancy Purge
+* **Process Optimization & SLAs:** Designed and documented streamlined content intake workflows and operational SLAs. Partnered with cross-functional writers, risk operations, and product teams to eliminate handoff friction.
 
-Eliminated 10%+ content duplication
+* **Analytics & Performance Dashboards:** Built interactive performance dashboards and automated monthly reporting metrics to evaluate publishing volume, velocity, and turnaround times, presenting actionable trends directly to Director-level stakeholders.
 
-Orchestrated automated audits of 1,200+ modular assets
+* **Support Automation:** Defined operational scope, metrics, and routing taxonomy rules for safety automation pilots, leading to a ticket deflection of \~70,000 tickets per month through optimized system-to-content routing.
 
-SaaS Licensing ROI
+**Team Leader — Content & Customer Insights**  |  Uber | US\&C Community Operations*Dec 2019 – Jun 2021*
 
-Realized 85.7% platform cost reduction
+* **Team Leadership & SLA Monitoring:** Built and managed a team of 15 FTE Content & Insights Specialists. Monitored performance against key metrics (FCR, AHT, content quality, and SLA adherence); spearheaded career planning, goal tracking, and cross-skilling initiatives.
 
-Managed 18-month, zero-downtime core CRM stack migration
+* **Data-to-Content Pipeline:** Translated customer contact volumes and support trends into targeted KB improvements, addressing content gaps and reducing repeating contact rates on high-anxiety support issues.
 
-Taxonomy Architecture
+* **Escalation Management:** Served as the key contact for high-priority operational escalations; conducted Root Cause Analyses (RCA) to refine internal content playbooks and mitigate business risk.
 
-Structured 400+ critical contact nodes
+**Subject Matter Expert & Content Specialist**  |  Uber | Centre of Excellence (COE), Hyderabad, *Oct 2016 – Nov 2019*
 
-Built multi-market global payments hierarchy and category tree
+* **Salesforce Administration & Governance:** Owned regular support content updates, article categorization, and metadata hygiene within Salesforce Service Cloud. Ensured strict alignment with brand tone, style guides, and SEO requirements.
 
-Functional Competencies
+* **Salesforce Migration Project:** Supported an 18-month, zero-downtime content migration from Salesforce to KMS Lighthouse, preserving global content taxonomy, metadata structures, and operational continuity while realizing an 85.7% licensing cost reduction.
 
-🧩 Systems & Content Strategy
+* **Product Launch Content Strategy:** Partnered with Product Operations to scope, design, and publish support materials, FAQs, and agent playbooks for the US\&C “Uber Cash” product launch.
 
-Enterprise CRMs & CMS: Salesforce Service Cloud Administration, Salesforce CMS, KMS Platforms, ContentStack, Zendesk Systems.
+* **Workflow Automation:** Developed custom JavaScript (screen-scraping) and HTML scripts within the CRM and CMS workspace to optimize agent retrieval steps, saving critical seconds on average handle times.
 
-Information Design: Structured Metadata Schemas, Taxonomy Trees, Controlled Vocabularies, Single Source of Truth (SSOT) Design, RAG-Indexing optimization.
+**KEY IMPACT — BY THE NUMBERS**
 
-Governance & Compliance: Quality Assurance (QA) Frameworks, Access Control Levels, Content Freshness Protocols, Cross-Functional Federated Stewardship.
+| \~1,200 Content Blocks Audited | 400+ Contact Types Structured | \~4,000 KB Resources Migrated | 70K+/mo Ticket Deflection via Automation |
+| :---: | :---: | :---: | :---: |
+| **10%+** Redundancy Eliminated per Audit | **51** Claims KB Drafts Authored & Validated | **50+** Global Markets Covered | **9 yrs** Tenure Depth at Uber |
 
-📊 Project & Program Governance
+**EDUCATION & CERTIFICATIONS**
 
-Agile Methodologies: Certified Scrum Master (CSM) managing sprint planning, scoping, roadmap tracking, and backlog grooming via Jira, Jira Product Discovery, and Confluence.
+**B.E. Mechanical Engineering**  |  Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad  |  2012–2016
 
-Process Optimization: Lean Six Sigma Green Belt utilizing DMAIC methodology and root cause analysis (RCA) to eliminate workflow friction and build scalable standard operating procedures (SOPs).
-
-Change Management: Facilitating seamless technology migrations, conducting User Acceptance Testing (UAT), and monitoring post-stabilization user adoption.
-
-🤖 Analytics, Web & AI
-
-Operational Math: Performance Dashboarding (Volume, Velocity, SLA, First Contact Resolution), SQL Data Analysis (MySQL), Excel/Google Sheets automation.
-
-AI Integration & Automation: Prompt Engineering, Semantic Audit Workflows, JSON Schema Design, HTML5/CSS3 Authoring, JavaScript CRM-optimization scripts.
-
-Professional Journey (Executive Summary)
-
-Program Manager | Systems, Strategy & Governance
-
-Global Technology & Ride-Hailing Platform
-
-Program & Project Management: Spearheaded high-priority global knowledge transformation initiatives, coordinating cross-functional sprints across Product, Engineering, Legal, and 50+ regional markets.
-
-Metadata & Modular Architectures: Designed an atomic content framework, breaking monolithic playbooks into granular, machine-readable blocks to ensure context validity for downstream AI/RAG tools.
-
-AI-Driven Content Auditing: Formulated and executed an automated content freshness program using standard database queries and LLM scripts to locate duplicate, contradictory, or stale procedures.
-
-Governance & Standardization: Managed multi-market claims and payments categorization, resolving information bottlenecks and establishing template standards.
-
-Program Specialist IV | Safety, Risk & Payments Operations
-
-Global Technology & Ride-Hailing Platform
-
-Global Taxonomy Overhaul: Directed the ground-up structuring of a payments directory tree with 400+ new Contact Types and migrated ~4,000 KB resources to establish global schema consistency.
-
-Process Re-engineering: Audited operational processes and workflows, streamlining support routing and escalation trees to dramatically reduce average handling times and agent handoffs.
-
-Executive Dashboards: Built automated performance metrics tracking system-wide publishing volume, authoring velocity, and SLA adherence for Director-level reviews.
-
-Team Leader | Customer Support & Driver Insights
-
-Global Technology & Ride-Hailing Platform
-
-High-Performing Leadership: Built, managed, and coached a team of 15 FTE customer solutions specialists to meet and exceed sales, support, FCR, and quality QA standards.
-
-Capacity & Coverage Planning: Engineered resource allocation and shift scheduling layouts to maintain highly stable response SLAs across a complex, multi-market hybrid working model.
-
-Data-to-Product Loop: Translated raw customer contact volumes and friction trends into targeted self-service improvements, continuously lowering repeating contact rates on high-anxiety issues.
-
-Standard Portfolio Showcases (Sanitized Blueprints)
-
-To protect proprietary data, these repositories contain generalized, clean architectural templates demonstrating core design principles.
-
-📁 atomic-knowledge-schema: A JSON/Metadata blueprint demonstrating modular content block decomposition for headless CMS structures and optimized semantic indexing.
-
-📁 ai-knowledge-auditor: A Python/SQL script modeling stale file isolation and duplicate evaluation based on last-audit timestamps and low utility metrics.
-
-📁 payments-taxonomy-tree: A structured YAML configuration mapping category hierarchies for multi-market fintech, account security, and claims flows.
-
-📁 sla-dashboard-toolkit: SQL query patterns aggregating first contact resolution (FCR), mean handle times, and volume distributions for operational reporting.
-
-Professional Credentials
-
-Certified Scrum Master (CSM) | Agile Alliance
-
-Lean Six Sigma Green Belt | Process Engineering & Statistical Analysis
-
-COPC Quality Standards Certified | Customer Operations Performance Center (Vendor, Quality, & SLA Standards)
-
-B.E. Mechanical Engineering | Chaitanya Bharathi Institute of Technology (CBIT)
-
-📫 Connect With Me
-
-Email: gp11625@gmail.com
-
-LinkedIn: Gourov Prasad
+**Certified Scrum Master (CSM)**  |  Agile Alliance     •  **Lean Six Sigma — Green Belt**  (Process Optimization & Statistical Analysis)     •  **COPC Certified**  (Customer Operations Performance Centre)
