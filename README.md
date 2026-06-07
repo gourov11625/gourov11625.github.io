@@ -25,9 +25,9 @@ I treat **Enterprise Knowledge as Software**. Over my 9-year tenure at **Uber**,
 ## 🛠️ Technical Ecosystem & Toolkit
 
 - **CMS & Knowledge Engines:** ContentStack, KMS Lighthouse, Salesforce Service Cloud, Zendesk
-- **Data & Analytics:** SQL (MySQL), Python (Pandas/NumPy), JSON, Excel/Sheets Automation
+- **Data & Analytics:** SQL (MySQL), JSON, Excel/Sheets Automation
 - **AI & Automation:** Prompt Engineering (Gemini API), Custom GPTs/Gems, JSON Schema Validation
-- **Product & PM Frameworks:** Agile/Scrum (CSM), JIRA, JIRA Product Discovery, Confluence, Lucidchart, Figma
+- **Product & PM Frameworks:** Agile/Scrum (CSM), JIRA, Confluence, Lucidchart, Figma
 - **Web Languages:** HTML5, CSS3, JavaScript (SOP scripting & automation)
 
 ---
